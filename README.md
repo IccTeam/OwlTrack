@@ -20,13 +20,12 @@ https://github.com/IccTeam/OwlTrack
 [+] apt list --upgradable 
 [+] pkg install python -y
 [+] pkg install git -y
-[+] git clone https://github.com/IccTeam/icc-team (belum ada di github)
+[+] git clone https://github.com/IccTeam/OwlTrack
 ```
 # How to using
 ```
 [-] cd OwlTrack
 [-] chmod +x *
-[-] bash setup.sh
 [-] python3 owltrack.py
 [-] And slect the target
 ```
