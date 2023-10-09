@@ -1,4 +1,4 @@
-This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan phone numbers with up to 4 different methods. OwlTrack has 6 active menus and 1 menu that cannot be used yet. I hope you like the tracking tool as well as the attack tool that I made.
+This tracking tool can provide information about the telephone number you entered. Not only that, this tool is able to scan phone numbers with up to 4 different methods. OwlTrack also has a menu to track email address information and scan websites to ensure they are safe to visit. I hope you enjoy this tool I created [Created By Mr.OwlBird05]
 
 # Created by Mr,OwlBird05
 ![20221214_220936-1](https://github.com/IccTeam/OwlTrack/assets/143928335/9376a4a1-364e-4bb7-bfea-8a470817bf2d)
