@@ -10,7 +10,7 @@ This tracking tool can provide information about the telephone number you entere
         Youtube Channel http://www.youtube.com/@iccfficial / search in youtube iccfficial
 
 # Github
-https://github.com/IccTeam/OwlTrack
+     https://github.com/IccTeam/OwlTrack
 
 ## OS
 • (Android, Linux, Termux)
@@ -42,10 +42,10 @@ MCC (Muslim Cyber Community)
        this is all menu in OwlTrack
 ![Screenshot_2023-10-09-16-44-19-12](https://github.com/IccTeam/OwlTrack/assets/143928335/1ead5b5b-81cf-44db-96b7-550a90b5dc9a)
 
-[1] Phone Number Information 
-[2] Ip Address Information 
-[3] Email Address Information 
-[4] DoS Website
-[5] Website Scanner 
-[6] PhoneSploit 
-[7] Logout WhatsApp  [Not Work Now]
+       [1] Phone Number Information 
+       [2] Ip Address Information 
+       [3] Email Address Information 
+       [4] DoS Website
+       [5] Website Scanner 
+       [6] PhoneSploit 
+       [7] Logout WhatsApp  [Not Work Now]
