@@ -21,9 +21,6 @@ if module == 1: ## Option 1
 if module == 2: ## Option 2
  print("")
  sleep(2)
- print("\033[0;37m[+]\033[1;97m Loading.....")
- sleep(1)
- print("\033[0;37m[+]\033[1;97m Done")
  print("")
  os.system("python modules/MODULE") ## OWLTRACK MENU
 
