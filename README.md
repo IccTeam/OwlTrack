@@ -43,7 +43,7 @@ https://defacer.id/archive/team/intelejen-cyber-community
 # OwlTrack Features Menu
  this is all menu in OwlTrack
  
-![Screenshot_2023-10-17-10-48-33-46](https://github.com/IccTeam/OwlTrack/assets/143928335/98536a35-afdd-41e6-8597-7e5838599daa)
+![Screenshot_2023-10-20-09-48-30-66](https://github.com/IccTeam/OwlTrack/assets/143928335/b3d5a08d-f59a-4901-9125-4802422536bb)
 
 
  [1] Phone Number Information 
@@ -58,6 +58,4 @@ https://defacer.id/archive/team/intelejen-cyber-community
   
  [6] Instagram User Details
   
- [7] Logout WhatsApp  [Not Work Now]
-
  - ©Created 2033 By Mr.OwlBird05
