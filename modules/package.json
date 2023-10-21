@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "apify-client": "^2.8.1",
+    "inquirer": "^9.2.11"
+  }
+}
