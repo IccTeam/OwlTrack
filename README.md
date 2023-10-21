@@ -42,20 +42,23 @@ https://defacer.id/archive/team/intelejen-cyber-community
 
 # OwlTrack Features Menu
  this is all menu in OwlTrack
- 
-![Screenshot_2023-10-20-09-48-30-66](https://github.com/IccTeam/OwlTrack/assets/143928335/b3d5a08d-f59a-4901-9125-4802422536bb)
+
+ ![Screenshot_2023-10-20-09-48-30-66](https://github.com/IccTeam/OwlTrack/assets/143928335/5cd4765a-da0b-4b9e-ab22-4737419889a8)
+
 
 
  [1] Phone Number Information 
+
+ [2] Lookup Number
  
- [2] Ip Address Information 
+ [3] Ip Address Information 
  
- [3] Email Address Information 
+ [4] Email Address Information 
  
- [4] DoS Website
+ [5] DoS Website
   
- [5] Website Scanner 
+ [6] Website Scanner 
   
- [6] Instagram User Details
+ [7] Instagram User Details
   
  - ©Created 2033 By Mr.OwlBird05
