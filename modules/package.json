@@ -1,9 +1,0 @@
-{
-  "type": "module",
-  "dependencies": {
-    "apify-client": "^2.8.1",
-    "inquirer": "^9.2.11",
-    "instead": "^1.0.3",
-    "prompt-sync": "^4.2.0"
-  }
-}
