@@ -30,6 +30,14 @@ This tracking tool can provide information about the telephone number you entere
 [-] python3 owltrack.py
 [-] And slect the target
 ```
+# Step 1
+![IMG_20231119_100644](https://github.com/IccTeam/OwlTrack/assets/143928335/ab8a2e46-42ea-41fa-bf22-eefed1809832)
+
+in this first stage you will be asked for a username and password to enter the module installation, to get a username and password you must first pay the tool developer to be given a username and password 
+
+[ Attention ! ] 
+ Why is this tool paid? because this tool is a VIP tool and only people who have paid can use it
+
 # Mirror
 https://defacer.id/archive/team/intelejen-cyber-community
 
