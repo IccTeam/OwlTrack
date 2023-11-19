@@ -10,10 +10,10 @@ This tracking tool can provide information about the telephone number you entere
 <img src="https://img.shields.io/static/v1?label=CreatedBy&color=blue&message=OwlBird05&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
   
 ![20221214_220936-1](https://github.com/IccTeam/OwlTrack/assets/143928335/9376a4a1-364e-4bb7-bfea-8a470817bf2d)
-
+<p align="center">
 | Developer | Here |
 |--------|--------|
-| **Social Media Owner** |[Here](https://github.com/IccTeam/OwlTrack) |
+| **Github** |[Here](https://github.com/IccTeam) |
 | **WhatsApp** |[Here](https://wa.me/+6283848301116) |
 | **Instagram** |[Here](https://instagram.com/iccfficial) |
 | **TikTok** |[Here](https://www.tiktok.com/@iccfficial) |
