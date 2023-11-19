@@ -11,11 +11,14 @@ This tracking tool can provide information about the telephone number you entere
   
 ![20221214_220936-1](https://github.com/IccTeam/OwlTrack/assets/143928335/9376a4a1-364e-4bb7-bfea-8a470817bf2d)
 
- - Contact developer +6283848301116
- - Instagram https://instagram.com/iccfficial
- - Personal account:https://instagram.com/owlbird05
- - TikTok: http://www.tiktok.com/@iccfficial
- - Youtube Channel http://www.youtube.com/@iccfficial 
+| Developer | Here |
+|--------|--------|
+| **Social Media Owner** |[Here](https://github.com/IccTeam/OwlTrack) |
+| **WhatsApp** |[Here](https://wa.me/+6283848301116) |
+| **Instagram** |[Here](https://instagram.com/iccfficial) |
+| **TikTok** |[Here](https://www.tiktok.com/@iccfficial) |
+| **Subscribe** |[Here](https://www.youtube.com/@iccfficial) |
+---------
  
 # Github
      https://github.com/IccTeam/OwlTrack
