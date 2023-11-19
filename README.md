@@ -11,8 +11,8 @@ This tracking tool can provide information about the telephone number you entere
   
 ![20221214_220936-1](https://github.com/IccTeam/OwlTrack/assets/143928335/9376a4a1-364e-4bb7-bfea-8a470817bf2d)
 
-| Developer | Here |
-|--------|--------|
+          | Developer | Here |
+          |--------|--------|
 | **Github** |[Here](https://github.com/IccTeam) |
 | **WhatsApp** |[Here](https://wa.me/+6283848301116) |
 | **Instagram** |[Here](https://instagram.com/iccfficial) |
