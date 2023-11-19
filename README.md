@@ -38,6 +38,11 @@ in this first stage you will be asked for a username and password to enter the m
 [ Attention ! ] 
 Why is this tool paid? because this tool is a VIP tool and only people who have paid can use it
 
+# Step 2
+![IMG_20231119_100935](https://github.com/IccTeam/OwlTrack/assets/143928335/ec755ef2-6219-4a15-85b9-84a22f527d2a)
+
+In this second stage you will be directed to installing the Python module, NodeJS and can continue to the Owltrack menu
+
 # Mirror
 https://defacer.id/archive/team/intelejen-cyber-community
 
