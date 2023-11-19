@@ -69,7 +69,7 @@ https://defacer.id/archive/team/intelejen-cyber-community
  MCC (Muslim Cyber Community)
 
 # OwlTrack Features Menu
-<img src="https://img.shields.io/static/v2?label=OwlTrack&color=green&message=AllMenu&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
+<img src="https://img.shields.io/static/v1?label=OwlTrack&color=green&message=AllMenu&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
 ![Screenshot_2023-11-18-22-54-07-55](https://github.com/IccTeam/OwlTrack/assets/143928335/067717fb-39b7-4e02-837a-14626b940048)
 
 
