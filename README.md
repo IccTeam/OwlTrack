@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/static/v1?label=Description&color=green&message=Author&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
 This tracking tool can provide information about the telephone number you entered. Not only that, this tool is able to scan phone numbers with up to 5 different methods. OwlTrack also has a menu to track email address information and scan websites to ensure they are safe to visit. I hope you enjoy this tool I created [Created By Mr.OwlBird05]
 
 # Created by Mr,OwlBird05
