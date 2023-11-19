@@ -36,7 +36,7 @@ This tracking tool can provide information about the telephone number you entere
 in this first stage you will be asked for a username and password to enter the module installation, to get a username and password you must first pay the tool developer to be given a username and password 
 
 [ Attention ! ] 
- Why is this tool paid? because this tool is a VIP tool and only people who have paid can use it
+Why is this tool paid? because this tool is a VIP tool and only people who have paid can use it
 
 # Mirror
 https://defacer.id/archive/team/intelejen-cyber-community
