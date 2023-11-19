@@ -43,6 +43,16 @@ Why is this tool paid? because this tool is a VIP tool and only people who have 
 
 In this second stage you will be directed to installing the Python module, NodeJS and can continue to the Owltrack menu
 
+# Step 3
+![IMG_20231119_101131](https://github.com/IccTeam/OwlTrack/assets/143928335/ca655a18-e5da-424c-bb65-3189bd1d2c6a)
+
+At this final stage you will be asked for your username and password again to ensure you are truly a member of the Owltrack tool. After successfully logging in you will be directed to the menu available on Owltrack.
+
+[ Good luck :) ] 
+
+- Developer: Mr,OwlBird05
+- Thanks To: OwlBird [ Developer ], Denis Putra, AmmarrBN, DCM X-505
+
 # Mirror
 https://defacer.id/archive/team/intelejen-cyber-community
 
