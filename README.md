@@ -53,6 +53,9 @@ At this final stage you will be asked for your username and password again to en
 - Developer: Mr,OwlBird05
 - Thanks To: OwlBird [ Developer ], Denis Putra, AmmarrBN, DCM X-505
 
+# Program Use
+ - Python, Bash, Javascript
+
 # Mirror
 https://defacer.id/archive/team/intelejen-cyber-community
 
