@@ -112,4 +112,4 @@ https://defacer.id/archive/team/intelejen-cyber-community
 
  <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
-<img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/>
+<img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
