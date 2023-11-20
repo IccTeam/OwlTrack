@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/github/issues/IccTeam/OwlTrack.svg?color=%23ff0000"/> <img
 <img src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack.svg?color=%2300cc00"/> <img
 <img src="https://img.shields.io/github/forks/IccTeam/OwlTrack.svg?color=%23ffff00"/> <img
+<img src="https://img.shields.io/github/stars/skavngr/rapidscan.svg?color=%23ff3300"/> <img
 </center>
   </h2>
   <hr>
