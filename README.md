@@ -5,11 +5,11 @@
 <img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
 <img src="https://img.shields.io/github/issues/IccTeam/OwlTrack.svg?color=%23ff0000"/> <img
+<img src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack.svg?color=%2300cc00"/> <img
 </center>
-<img
-src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack.svg?color=%2300cc00"/> <img
   </h2>
   <hr>
+  
 <p align="center">
 This tracking tool can provide information about the telephone number you entered. Not only that, this tool is able to scan phone numbers with up to 5 different methods. OwlTrack also has a menu to track email address information and scan websites to ensure they are safe to visit. I hope you enjoy this tool I created [Created By Mr.OwlBird05]
   </details>
