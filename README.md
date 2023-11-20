@@ -1,5 +1,8 @@
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=Description&color=green&message=Author&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
+# OwlTrack
+ <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
+<img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
+<img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
+
 <details open>
   <summary><strong> Description </strong></summary>
 <p align="center">
@@ -110,6 +113,5 @@ https://defacer.id/archive/team/intelejen-cyber-community
 
  [12] My Group WhatsApp Team
 
- <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
-<img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
-<img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=AllMenu&color=green&message=OwlTrack&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
