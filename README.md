@@ -109,5 +109,5 @@ https://defacer.id/archive/team/intelejen-cyber-community
  [11] Spammer Menu
 
  [12] My Group WhatsApp Team
- 
- - ©Created 2033 By Mr.OwlBird05
+
+ <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
