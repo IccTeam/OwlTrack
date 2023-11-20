@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
 <img src="https://img.shields.io/github/issues/IccTeam/OwlTrack.svg?color=%23ff0000"/> <img
 <img src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack.svg?color=%2300cc00"/> <img
+<img src="https://img.shields.io/github/forks/IccTeam/OwlTrack.svg?color=%23ffff00/> <img
 </center>
   </h2>
   <hr>
