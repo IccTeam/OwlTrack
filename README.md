@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/forks/IccTeam/OwlTrack.svg?color=%23ffff00"/> <img
 <img src="https://img.shields.io/github/stars/IccTeam/OwlTrack.svg?color=%23ff3300"/> <img
 <img src="https://img.shields.io/github/license/IccTeam/OwlTrack.svg?color=%230000ff"/> <img
-<img src="https://github.com/branches/IccTeam/OwlTrack.svg?color=%23ff3300"/> <img
+<img src="https://github.com/IccTeam/OwlTrack/branches.svg?color=%23ff3300"/> <img
 </center>
   </h2>
   <hr>
