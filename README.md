@@ -1,7 +1,7 @@
 # OwlTrack
 <details open>
   <summary><strong> Description </strong></summary>
-src="images/x-osint_banner_white_texts.png" float="center">
+<img src="images/x-osint_banner_white_texts.png" float="center">
 <center> 
  <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
