@@ -1,7 +1,8 @@
 # OwlTrack
 <details open>
   <summary><strong> Description </strong></summary>
- <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
+ <h2><img <img src="images/x-osint_banner_white_texts.png" float="center">
+<center> src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
 <img src="https://img.shields.io/github/issues/IccTeam/OwlTrack.svg?color=%23ff0000"/> <img
