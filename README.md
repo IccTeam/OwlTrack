@@ -1,7 +1,7 @@
 # OwlTrack
 <details open>
   <summary><strong> Description </strong></summary>
-<img src="![1000_F_274590066_DdZU51d08RlO8S9ITAUWfMubb6NAQsZU-removebg-preview](https://github.com/IccTeam/OwlTrack/assets/143928335/583deba7-d9e0-4c51-ab8e-4d67387362ad)"/> <img
+![1000_F_274590066_DdZU51d08RlO8S9ITAUWfMubb6NAQsZU](https://github.com/IccTeam/OwlTrack/assets/143928335/506fb352-a190-41c9-9101-df19af4b788b)
 
  <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
