@@ -96,7 +96,7 @@ https://defacer.id/archive/team/intelejen-cyber-community
 <details open>
   <summary><strong> All Menu </strong></summary>
 
-![Screenshot_2024-01-08-16-02-24-23](https://github.com/IccTeam/OwlTrack/assets/143928335/68cb3ac9-dec1-4e83-8aaa-aeb4eea4b076)
+![IMG_20240108_162558](https://github.com/IccTeam/OwlTrack/assets/143928335/7d1df77e-b9bf-4e3e-a1e5-594a4d9334b4)
 
 
  [1] Phone Number Information 
