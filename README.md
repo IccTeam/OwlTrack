@@ -65,10 +65,18 @@ This tracking tool can provide information about the telephone number you entere
     I don't need to explain further about the results and so on, you can try it yourself and see for yourself how. And I will emphasize, if you do any criminal activity using this menu, I ```[owlbird05/Abid .Z]``` will not be responsible for what you do.
    6. Website Content Crwaler
       This menu is used for crawling content on a website, so what it means is, when we enter a target from a website, it will give us results like the content on the website. So the method is like a web scraper to find information about a website. I will provide photos of the results, what you get from this menu:
-      <details open>
+      
+</center>
+  </h2>
+  <hr>
+<details open>
   <summary><strong> Result </strong></summary>
-      ![1001108840](https://github.com/user-attachments/assets/24457f4f-d772-4906-9cb4-3bc7a388184c)
-      <p align="center">
+  
+![1001108840](https://github.com/user-attachments/assets/24457f4f-d772-4906-9cb4-3bc7a388184c)
+</center>
+  </h2>
+  <hr>
+  
     from there you should already know how it works, and if it is still not clear, please go directly to the tool and execute it directly.
 
    8. 
