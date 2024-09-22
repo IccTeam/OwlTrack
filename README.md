@@ -54,7 +54,7 @@ This tracking tool can provide information about the telephone number you entere
      • Email Finder With domain, first name, last name
      • Email Validation
      ```
-     Here I will not explain in more detail, you can try it yourself on owltrack.
+Here I will not explain in more detail, you can try it yourself on owltrack.
    5. DDoS Menu
       On owltrack there is a DDoS () menu which is definitely aimed at attacking a website by sending bots until the web server goes down. In this menu, DDoS WiFi is also available, with the aim of making WiFi slow or even unusable. In DDoS this menu has 3 options in it, namely:
       ```
@@ -77,7 +77,7 @@ This tracking tool can provide information about the telephone number you entere
   </h2>
   <hr>
   
-    from there you should already know how it works, and if it is still not clear, please go directly to the tool and execute it directly.
+from there you should already know how it works, and if it is still not clear, please go directly to the tool and execute it directly.
 
    8. 
    9. 
