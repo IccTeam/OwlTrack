@@ -70,19 +70,6 @@ This tracking tool can provide information about the telephone number you entere
 
     from there you should already know how it works, and if it is still not clear, please go directly to the tool and execute it directly.
 
-   8. 
-   9. 
-   10. kdkd
-   11. kdks
-   12. jsks
-   13. jsks
-   14. jsjs
-   15. jdjdk
-   16. dd
-   17. d
-   18. d
-   19. d
-
 # Installation in termux
 ```python
 [+] pkg update && pkg upgrade -y
