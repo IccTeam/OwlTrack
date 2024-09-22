@@ -39,7 +39,8 @@ This tracking tool can provide information about the telephone number you entere
 ## OS
 • (Android, Linux, Termux)
 
-# Description 
+<details open>
+  <summary><strong> # Description </strong></summary>
  • Owltrack tool is a tool used for investigation, scanner, and also in attacks. Here I will explain each use of the menus available in owltrack.
  1. Phone Number Information
     This menu functions to identify a number and find out specific information from the target number, The results produced vary. For example, when scanning is taking place, we will get the results in the form of target number information, namely: ``` Telecommunication Network, Line Type, Country, Location, Even we can get Lat & Long of target number.``` and there are many more that can be produced from this menu, and you can try it yourself.
@@ -57,9 +58,11 @@ This tracking tool can provide information about the telephone number you entere
      Here I will not explain in more detail, you can try it yourself on owltrack.
    5. DDoS Menu
       On owltrack there is a DDoS () menu which is definitely aimed at attacking a website by sending bots until the web server goes down. In this menu, DDoS WiFi is also available, with the aim of making WiFi slow or even unusable. In DDoS this menu has 3 options in it, namely:
-      ```• DoS Website
+      ```
+      • DoS Website
       • DDoS Website
-      • DDoS Wifi```
+      • DDoS Wifi
+      ```
     I don't need to explain further about the results and so on, you can try it yourself and see for yourself how. And I will emphasize, if you do any criminal activity using this menu, I ```[owlbird05/Abid .Z]``` will not be responsible for what you do.
    6. Website Content Crwaler
       This menu is used for crawling content on a website, so what it means is, when we enter a target from a website, it will give us results like the content on the website. So the method is like a web scraper to find information about a website. I will provide photos of the results, what you get from this menu:
