@@ -55,6 +55,26 @@ This tracking tool can provide information about the telephone number you entere
      • Email Validation
      ```
      Here I will not explain in more detail, you can try it yourself on owltrack.
+   5. DDoS Menu
+      On owltrack there is a DDoS () menu which is definitely aimed at attacking a website by sending bots until the web server goes down. In this menu, DDoS WiFi is also available, with the aim of making WiFi slow or even unusable. In DDoS this menu has 3 options in it, namely:
+      ```• DoS Website
+      • DDoS Website
+      • DDoS Wifi```
+    I don't need to explain further about the results and so on, you can try it yourself and see for yourself how. And I will emphasize, if you do any criminal activity using this menu, I ```[owlbird05/Abid .Z]``` will not be responsible for what you do.
+   6. Website Content Crwaler
+      This menu is used for crawling content on a website, so what it means is, when we enter a target from a website, it will give us results like the content on the website. So the method is like a web scraper to find information about a website. I will provide photos of the results, what you get from this menu:
+   8. 
+   9. 
+   10. kdkd
+   11. kdks
+   12. jsks
+   13. jsks
+   14. jsjs
+   15. jdjdk
+   16. dd
+   17. d
+   18. d
+   19. d
 
 # Installation in termux
 ```python
