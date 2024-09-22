@@ -44,14 +44,16 @@ This tracking tool can provide information about the telephone number you entere
  1. Phone Number Information
     This menu functions to identify a number and find out specific information from the target number, The results produced vary. For example, when scanning is taking place, we will get the results in the form of target number information, namely: ``` Telecommunication Network, Line Type, Country, Location, Even we can get Lat & Long of target number.``` and there are many more that can be produced from this menu, and you can try it yourself.
   2. Lookup Number
-     Lookup Number has the same function as the first menu, namely phone number information. However, with this number lookup we can get the name of the number owner, location, etc.
+     Lookup Number has the same function as the first menu, namely phone number information. However, ```with this number lookup we can get the name of the number owner, location, etc.```
   3. Ip Address Information
      In this menu, there are 3 different IP tracking methods and of course the information provided is also varied. for sure this menu is very suitable for tracking ip addresses and it works 100%
   4. Email Address Information
      As the name suggests, this menu functions to validate and verify email addresses. In this menu, Owltrack has 3 menus, including the email scan method, I will mention 3 menus in the email address information menu:
+     ```
      • Email Address Information
      • Email Finder With domain, first name, last name
      • Email Validation
+     ```
      Here I will not explain in more detail, you can try it yourself on owltrack.
 
 # Installation in termux
