@@ -42,7 +42,7 @@ This tracking tool can provide information about the telephone number you entere
 # Description 
  • Owltrack tool is a tool used for investigation, scanner, and also in attacks. Here I will explain each use of the menus available in owltrack.
  1. Phone Number Information
-    This menu functions to identify a number and find out specific information from the target number, The results produced vary. For example, when scanning is taking place, we will get the results in the form of target number information, namely: Telecommunication Network, Line Type, Country, Location, Even we can get Lat & Long of target number. and there are many more that can be produced from this menu, and you can try it yourself.
+    This menu functions to identify a number and find out specific information from the target number, The results produced vary. For example, when scanning is taking place, we will get the results in the form of target number information, namely: ''' Telecommunication Network, Line Type, Country, Location, Even we can get Lat & Long of target number.''' and there are many more that can be produced from this menu, and you can try it yourself.
   2. Lookup Number
      Lookup Number has the same function as the first menu, namely phone number information. However, with this number lookup we can get the name of the number owner, location, etc.
   3. Ip Address Information
