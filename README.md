@@ -5,7 +5,7 @@
 ![1000_F_274590066_DdZU51d08RlO8S9ITAUWfMubb6NAQsZU-removebg-preview](https://github.com/IccTeam/OwlTrack/assets/143928335/9162e690-eb79-4b8f-b7b8-e81fcc5f8bf4)
  <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
-<img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-2.2-9cf"/>
+<img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-2.4-9cf"/>
 <img src="https://img.shields.io/github/issues/IccTeam/OwlTrack.svg?color=%23ff0000"/> <img
 <img src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack.svg?color=%2300cc00"/> <img
 <img src="https://img.shields.io/github/forks/IccTeam/OwlTrack.svg?color=%23ffff00"/> <img
@@ -64,11 +64,7 @@ This tracking tool can provide information about the telephone number you entere
       ```
     I don't need to explain further about the results and so on, you can try it yourself and see for yourself how. And I will emphasize, if you do any criminal activity using this menu, I ```[owlbird05/Abid .Z]``` will not be responsible for what you do.
    6. Website Content Crwaler
-      This menu is used for crawling content on a website, so what it means is, when we enter a target from a website, it will give us results like the content on the website. So the method is like a web scraper to find information about a website. I will provide photos of the results, what you get from this menu:
-
-![1001108840](https://github.com/user-attachments/assets/24457f4f-d772-4906-9cb4-3bc7a388184c)
-
-    from there you should already know how it works, and if it is still not clear, please go directly to the tool and execute it directly.
+      This menu is used for crawling content on a website, so what it means is, when we enter a target from a website, it will give us results like the content on the website. So the method is like a web scraper to find information about a website. 
 
 # Installation in termux
 ```python
