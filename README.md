@@ -102,7 +102,7 @@ This tracking tool can provide information about the telephone number you entere
 [ Good luck :) ] 
 
 - Developer: Mr,OwlBird05/Abid .Z
-- contribute with: Denis Putra, AmmarrBN, DCM X-505, Mr.ZeeoneOfc
+- thanks to: Denis Putra, AmmarrBN, DCM X-505, Mr.ZeeoneOfc
 
 # Program Use
  - Python, Bash, Javascript
