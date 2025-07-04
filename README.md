@@ -152,3 +152,54 @@ https://defacer.id/archive/team/intelejen-cyber-community
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=AllMenu&color=green&message=OwlTrack&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
+---
+---
+
+# 🦉 OwlTrack Premium v2.6
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OwlTrack-Premium%20v2.6-critical"/>
+  <img src="https://img.shields.io/badge/License-Paid%20Access-important"/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen"/>
+</p>
+
+**OwlTrack Premium v2.6** merupakan pengembangan lanjutan dari OwlTrack original dengan penambahan berbagai fitur investigasi, OSINT, dan pentest yang lebih lengkap.
+
+## ✨ Fitur Utama
+- Real-time Phone Number Lookup + LeakOSINT
+- NIK to Phone & Phone to NIK Data Leak Search
+- Recon & Semi-Active Scanning Tools
+- Modul simulasi pentest (DDoS Testing, Spam, CamPhish)
+- AI Chat Terminal & AI WhatsApp Bot
+- Sistem login berbasis GitHub Key dan ID Terminal
+- Tampilan CLI animasi modern
+
+**Total Tools Premium:** 36 Menu
+
+## 📋 Contoh Menu
+- Phone Number Information
+- Lookup Number
+- Dox Number to Name
+- NIK Checker & Tracker
+- Web & IP Scanner
+- Email / Sosial Media Scraper
+- DDoS & Spam Tools
+- Bug WhatsApp Chat
+- CCTV Hijacker v1 & v2
+
+## 💸 Harga Membership
+| Durasi | Harga (IDR) |
+|--------|-------------|
+| 1 Tahun | 180K |
+| 2 Tahun | 250K |
+| 3 Tahun (Promo) | 300K |
+
+Aktivasi premium hubungi: [WhatsApp Developer](https://wa.me/6283848301116)
+
+## 📂 Repository
+🔗 [https://github.com/IccTeam/owltrack2.6](https://github.com/IccTeam/owltrack2.6)
+
+---
+
+> **Disclaimer:** Tool ini hanya untuk edukasi, penelitian keamanan, dan audit internal. Segala penyalahgunaan menjadi tanggung jawab pengguna.
+
