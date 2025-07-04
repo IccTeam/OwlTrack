@@ -152,7 +152,9 @@ https://defacer.id/archive/team/intelejen-cyber-community
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=AllMenu&color=green&message=OwlTrack&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
+
 ---
+
 ---
 
 # 🦉 OwlTrack Premium v2.6
@@ -165,6 +167,8 @@ https://defacer.id/archive/team/intelejen-cyber-community
 
 **OwlTrack Premium v2.6** merupakan pengembangan lanjutan dari OwlTrack original dengan penambahan berbagai fitur investigasi, OSINT, dan pentest yang lebih lengkap.
 
+---
+
 ## ✨ Fitur Utama
 - Real-time Phone Number Lookup + LeakOSINT
 - NIK to Phone & Phone to NIK Data Leak Search
@@ -174,7 +178,11 @@ https://defacer.id/archive/team/intelejen-cyber-community
 - Sistem login berbasis GitHub Key dan ID Terminal
 - Tampilan CLI animasi modern
 
+---
+
 **Total Tools Premium:** 36 Menu
+
+---
 
 ## 📋 Contoh Menu
 - Phone Number Information
@@ -187,6 +195,8 @@ https://defacer.id/archive/team/intelejen-cyber-community
 - Bug WhatsApp Chat
 - CCTV Hijacker v1 & v2
 
+---
+
 ## 💸 Harga Membership
 | Durasi | Harga (IDR) |
 |--------|-------------|
@@ -196,10 +206,11 @@ https://defacer.id/archive/team/intelejen-cyber-community
 
 Aktivasi premium hubungi: [WhatsApp Developer](https://wa.me/6283848301116)
 
+---
+
 ## 📂 Repository
 🔗 [https://github.com/IccTeam/owltrack2.6](https://github.com/IccTeam/owltrack2.6)
 
 ---
 
 > **Disclaimer:** Tool ini hanya untuk edukasi, penelitian keamanan, dan audit internal. Segala penyalahgunaan menjadi tanggung jawab pengguna.
-
