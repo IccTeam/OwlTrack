@@ -202,9 +202,9 @@ https://defacer.id/archive/team/intelejen-cyber-community
 ## 💸 Harga Membership
 | Durasi | Harga (IDR) |
 |--------|-------------|
-| 1 Tahun | 180K |
-| 2 Tahun | 250K |
-| 3 Tahun (Promo) | 300K |
+| 1 Tahun | 330K |
+| 2 Tahun | 450K |
+| 3 Tahun (Promo) | 400K |
 
 Aktivasi premium hubungi: [WhatsApp Developer](https://wa.me/6283848301116)
 
